@@ -12,7 +12,7 @@
                                         <p class="disc">
                                             Avec Louda Côte d’Ivoire, connectez vos ambitions au monde : développez vos opportunités, exportez vos richesses, et propulsez votre entreprise vers de nouveaux horizons.
                                         </p>
-                                        <a href="mailto:procurement@loudagroup.com" class="tmp-btn btn-primary">Obtenir Un Devis</a>
+                                        <a href="mailto:contact@loudagroup.com" class="tmp-btn btn-primary">Obtenir Un Devis</a>
                                     </div>
                                 </div>
                             </div>

@@ -10,9 +10,9 @@
                                     <div class="banner-startup-main-content-wrapper">
                                         <h1 class="title">Construisons ensemble <br> l'avenir de l’Afrique</h1>
                                         <p class="disc">
-                                            Avec Louda, connectez vos ambitions au monde : développez vos opportunités, exportez vos richesses, et propulsez votre entreprise vers de nouveaux horizons.
+                                            Avec Louda, connectez vos ambitions au monde.
                                         </p>
-                                        <a href="mailto:procurement@loudagroup.com" class="tmp-btn btn-primary">Obtenir Un Devis</a>
+                                        {{-- <a href="mailto:contact@loudagroup.com" class="tmp-btn btn-primary">Obtenir Un Devis</a> --}}
                                     </div>
                                 </div>
                             </div>
@@ -32,9 +32,9 @@
                                     <div class="banner-startup-main-content-wrapper">
                                         <h1 class="title">L’Afrique exporte, <br> Louda connecte</h1>
                                         <p class="disc">
-                                            De la ferme au marché mondial, Louda facilite vos exportations agricoles en toute simplicité et fiabilité. Osez l’international avec confiance.
+                                             Osez l’international avec confiance.
                                         </p>
-                                        <a href="mailto:procurement@loudagroup.com" class="tmp-btn btn-primary">Obtenir Un Devis</a>
+                                        {{-- <a href="mailto:contact@loudagroup.com" class="tmp-btn btn-primary">Obtenir Un Devis</a> --}}
                                     </div>
                                 </div>
                             </div>
@@ -52,11 +52,11 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="banner-startup-main-content-wrapper">
-                                        <h1 class="title">Vos récoltes, <br> notre passerelle vers le monde</h1>
+                                        <h1 class="title">Louda, <br> une passerelle vers le monde</h1>
                                         <p class="disc">
-                                            Grâce à Louda, vos produits agricoles franchissent les frontières en toute sécurité. Simplifiez l’export, développez vos marchés, et visez loin.
+                                             Simplifiez l’export, développez vos marchés, et visez loin.
                                         </p>
-                                        <a href="mailto:procurement@loudagroup.com" class="tmp-btn btn-primary">Demander Une Estimation</a>
+                                        {{-- <a href="mailto:contact@loudagroup.com" class="tmp-btn btn-primary">Demander Une Estimation</a> --}}
                                     </div>
                                 </div>
                             </div>

@@ -35,7 +35,7 @@
                     <i class="fa-light fa-envelope"></i>
                     <div class="information">
                         <span>Envoyez-nous un mail</span>
-                        <a href="#" class="number">procurement@loudagroup.com</a>
+                        <a href="#" class="number">contact@loudagroup.com</a>
                     </div>
                 </div>
                 <!-- single contact information end -->

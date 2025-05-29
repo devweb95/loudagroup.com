@@ -37,9 +37,9 @@ backdrop-filter: blur(8px);
 -webkit-backdrop-filter: blur(8px);
 ">
     <ul class="list-inline m-0">
-        <li class="list-inline-item">
+        {{-- <li class="list-inline-item">
             <a href="/" class="text-white text-decoration-none">ACCUEIL</a>
-        </li>
+        </li> --}}
         <li class="list-inline-item text-white">
             <i class="fa-solid fa-angle-right text-white mx-2"></i>
             

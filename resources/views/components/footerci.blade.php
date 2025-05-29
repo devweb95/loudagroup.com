@@ -72,7 +72,7 @@
 
                                         <div class="content">
                                             <span>E-mail:</span>
-                                            <a href="mailto:procurementci@loudagroup.com" class="fs-5">procurementci@loudagroup.com</a>
+                                            <a href="mailto:contactci@loudagroup.com" class="fs-5">contactci@loudagroup.com</a>
 
                                         </div>
 

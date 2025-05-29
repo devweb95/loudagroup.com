@@ -58,7 +58,7 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-lg-6 col-md-6 col-12" onclick="window.location.href='mailto:procurementbf@loudagroup.com'" style="cursor: pointer;">
+                <div class="col-lg-6 col-md-6 col-12" onclick="window.location.href='mailto:contactbf@loudagroup.com'" style="cursor: pointer;">
                     <div class="single-contact-card card1">
                         <div class="top-part">
                             <div class="icon">
@@ -71,7 +71,7 @@
                         </div>
                         <div class="bottom-part">
                             <div class="info">
-                                <p> <a href="mailto:procurementci@loudagroup.com">procurementci@loudagroup.com</a> </p>
+                                <p> <a href="mailto:contactci@loudagroup.com">contactci@loudagroup.com</a> </p>
                             </div>
                             <div class="icon">
                                 <i class="fal fa-arrow-right"></i>

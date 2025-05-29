@@ -15,7 +15,7 @@
                     <div class="col-lg-12">
                         <div class="header-top-inner">
                             <div class="left-information-area">
-                                <p class="left-top" href="mailto:procurement@loudagroup.com"><i class="fa-light fa-envelope"></i> procurement@loudagroup.com</p>
+                                <p class="left-top" href="mailto:contact@loudagroup.com"><i class="fa-light fa-envelope"></i> contact@loudagroup.com</p>
                             
                                 <div class="location-area">
                                     <i class="fa-light fa-location-dot"></i>
@@ -55,7 +55,7 @@
                         <!-- <a href="#" class="tmp-btn btn-primary">Get Consulting</a> -->
                         <div class="actions-area">
 
-                            <a href="mailto:procurement@loudagroup.com" class="tmp-btn btn-primary">Obtenir Un Devis</a>
+                            <a href="mailto:contact@loudagroup.com" class="tmp-btn btn-primary">Obtenir Un Devis</a>
                             <!-- <div class="menu-button" id="search">
                         <i class="fa-light fa-grid-2"></i>
                         </div> -->

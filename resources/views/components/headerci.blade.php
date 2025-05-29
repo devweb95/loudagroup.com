@@ -8,8 +8,8 @@
                     <div class="header-top-inner">
                         <div class="left-information-area">
                             <p class="left-top">
-                                <a href="mailto:procurementci@loudagroup.com" class="text-[#2170b8]">
-                                  <i class="fa-regular fa-envelope"></i> procurementci@loudagroup.com
+                                <a href="mailto:contactci@loudagroup.com" class="text-[#2170b8]">
+                                  <i class="fa-regular fa-envelope"></i> contactci@loudagroup.com
                                 </a>
                               </p>
                               
@@ -57,7 +57,7 @@
                     <!-- <a href="#" class="tmp-btn btn-primary">Get Consulting</a> -->
                     <div class="actions-area">
 
-                        <a href="mailto:procurementci@loudagroup.com" class="tmp-btn btn-primary">Obtenir Un Devis</a>
+                        <a href="mailto:contactci@loudagroup.com" class="tmp-btn btn-primary">Obtenir Un Devis</a>
                         <!-- <div class="menu-button" id="search">
                     <i class="fa-light fa-grid-2"></i>Obtenir Un Devis
                     </div> -->

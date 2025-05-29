@@ -62,14 +62,15 @@
                 <div class="about-inner">
                     <div class="section-head text-align-left section-head-one-side">
                         <div class="section-sub-title">
-                            <img src="{{ asset('assets/images/services/section-custom-menubar.png') }}" alt="Corporate_service">
-                            <span class="subtitle">À PROPOS DE NOUS</span>
+                            <img src="{{ asset('assets/images/services/section-custom-menubar.png') }}" alt="Corporate_service" style="width: 20px; height: auto;">
+                            <span class="subtitle" style="font-size: 4rem;">À PROPOS DE NOUS</span>
+                            {{-- <h2 class="subtitle"> À PROPOS DE NOUS</h2> --}}
                         </div>
-                        <h2 class="title split-collab text-justify">Découvrez-en plus sur notre <br> Groupe</h2>
+                        {{-- <h2 class="title split-collab text-justify">Découvrez-en plus sur notre <br> Groupe</h2> --}}
                     </div>
 
                     <p class="description text-justify" data-sal-delay="200" data-sal="slide-up" data-sal-duration="800">
-                        Louda est un groupe spécialisé dans la fourniture de biens et services dans les secteurs des mines, de la transformation, du BTP, de l’énergie et des infrastructures en Afrique. Fort de son expertise et de son engagement envers l'excellence, Louda accompagne ses partenaires à chaque étape de leurs projets en leur proposant des solutions sur mesure, innovantes et adaptées aux réalités locales. Grâce à une équipe expérimentée et un réseau stratégique, le groupe contribue activement au développement durable et à la croissance économique du continent africain.
+                       Louda est un groupe international spécialisé dans les secteurs des mines, de l’énergie, du BTP et des infrastructures. Sa force réside dans l’expertise de ses équipes, qui conçoivent des solutions innovantes, adaptées aux réalités locales. Grâce à cet engagement humain, Louda contribue activement au développement durable.
                     </p>
                     
                     <!-- Prograss bar Start  -->

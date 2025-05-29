@@ -48,19 +48,19 @@
                 <li><a href="{{ route('notre_group') }}">Notre Groupe</a></li>
                 <li><a href="{{ route('objectif-principes') }}">Nos Valeurs</a></li>
                 <!--<li><a href="{{ route('nos-entreprise') }}">Nos entreprises</a></li>-->
-                <li><a href="{{ route('direction') }}">Direction</a></li>
-                <li><a href="{{ route('conseil_admin') }}">Conseil d'Administration</a></li>
+                {{-- <li><a href="{{ route('direction') }}">Direction</a></li>
+                <li><a href="{{ route('conseil_admin') }}">Conseil d'Administration</a></li> --}}
             </ul>
         </li>
         
         <li class="has-dropdown">
             <a class="nav-link" href="#">
-                <span class="rolling-text">CE QUE NOUS FAISONS</span>
+                <span class="rolling-text">OFFRES</span>
             </a>
             <ul class="submenu">
-                <li><a href="{{ route('louda_chimical') }}">Louda Chemical</a></li>
-                <li><a href="{{ route('louda_industry') }}">Louda Industry</a></li>
-                <li><a href="{{ route('louda_service') }}">Louda Services</a></li>
+                <li><a href="{{ route('louda_chimical') }}">CHEMICAL</a></li>
+                <li><a href="{{ route('louda_industry') }}">INDUSTRY</a></li>
+                <li><a href="{{ route('louda_service') }}">SERVICES</a></li>
                 
             </ul>
         </li>
@@ -70,18 +70,18 @@
                 <span class="rolling-text">ACTUALITÉ</span>
             </a>
         </li>
-        <li>
+        {{-- <li>
             <a class="nav-link" href="{{ route('offre_emploie') }}">
                 <span class="rolling-text">CARRIÈRE</span>
             </a>
-        </li>
+        </li> --}}
       
         
-        <li>
+        {{-- <li>
             <a class="nav-link" href="{{ route('contact') }}">
                 <span class="rolling-text">CONTACT</span>
             </a>
-        </li>
+        </li> --}}
         <li class="has-dropdown">
             <a class="nav-link" href="#">
                 <span class="rolling-text">FILIALES</span>
