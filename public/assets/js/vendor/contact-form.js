@@ -2,9 +2,9 @@
  *
  * -----------------------------------------------------------------------------
  *
- * Template : Bizper-Corporate Buziness Laravel 11 Template
- * Author : PixcelsThemes
- * Author URI : https://themeforest.net/user/pixcelsthemes 
+ * Template : Bizper-Corporate Buziness HTML Template
+ * Author : Themes-Park
+ * Author URI : https://themespark.com/ 
  *
  * -----------------------------------------------------------------------------
  *

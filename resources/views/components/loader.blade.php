@@ -15,14 +15,14 @@
         </svg>
 
         <div class="loader-wrap-heading">
-            <div class="load-text">
-                <span>L</span>
-                <span>o</span>
-                <span>a</span>
-                <span>d</span>
-                <span>i</span>
-                <span>n</span>
-                <span>g</span>
+            <div class="load-text" style="font-size: 56px; color: #2170b8; font-weight: bold;">
+                
+               
+                
+                <span>
+                    <img src="{{ asset('assets/images/logo/LOGO@300x.png') }}" alt="logo" width="450" height="auto">
+                </span>
+
             </div>
         </div>
     </div>

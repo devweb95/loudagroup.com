@@ -57,7 +57,6 @@
             tmPk.rollingText();
             tmPk.counterJumpanimation();
             tmPk.gsapAnimationImageScale2();
-            tmPk.menuCurrentLink();
         },
         
         swiperJs: function () {
@@ -1119,24 +1118,7 @@ Math.easeInOutQuad = function(t, b, c, d) {
     
         },
 
-        menuCurrentLink: function() {
-          // Get the current URL
-          var currentUrl = window.location.href;
-  
-          // Select the navigation links within the .main-nav container
-          document.querySelectorAll('.main-nav a').forEach(function(link) {
-              // Check if the link's href matches the current URL
-              if (link.href === currentUrl) {
-                  link.classList.add('active'); // Add the "active" class
-  
-                  // Find the closest parent <li> with the "has-dropdown" class
-                  var parentLi = link.closest('.has-dropdown');
-                  if (parentLi && parentLi.classList.contains('has-dropdown')) {
-                      parentLi.classList.add('menu-item-open'); // Add the "menu-item-open" class
-                  }
-              }
-          });
-      },
+
 
     }
 
@@ -1144,4 +1126,11 @@ Math.easeInOutQuad = function(t, b, c, d) {
 
 })(jQuery, window)
 
+
+
+
+
+
+
+  
  

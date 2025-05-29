@@ -15,23 +15,19 @@
                     <div class="col-lg-12">
                         <div class="header-top-inner">
                             <div class="left-information-area">
-                                <p class="left-top">Using user feedback to creat a million dollar</p>
+                                <p class="left-top" href="mailto:procurement@loudagroup.com"><i class="fa-light fa-envelope"></i> procurement@loudagroup.com</p>
+                            
                                 <div class="location-area">
                                     <i class="fa-light fa-location-dot"></i>
-                                    <a href="#">California, TX 70240</a>
+                                    <a href="#">Ouagadougou, BURKINA FASO</a>
                                 </div>
-                                <div class="working-time">
-                                    <i class="fa-light fa-clock"></i>
-                                    <p>Working Hours: 9:00 AM – 8:00 PM</p>
-                                </div>
+                               
                             </div>
                             <div class="right-header-top">
                                 <div class="social-area-transparent">
-                                    <span>Follow on</span>
+                                    <span>Suivez-nous sur</span>
                                     <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
                                     <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-                                    <a href="#"><i class="fa-brands fa-pinterest-p"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -46,8 +42,10 @@
                 <div class="col-lg-12">
                     <div class="header-mida-area style-two ">
                         <div class="logo-area-start">
+                           
                             <a href="{{ route('index') }}">
-                                <img src="{{ asset('assets/images/logo/logo-03.png') }}" alt="logo">
+                                <img src="{{ asset('assets/images/logo/LOGO@300x.png') }}" alt="logo" width="150" height="auto">
+
                             </a>
                         </div>
 
@@ -57,7 +55,7 @@
                         <!-- <a href="#" class="tmp-btn btn-primary">Get Consulting</a> -->
                         <div class="actions-area">
 
-                            <a href="#" class="tmp-btn btn-primary">Get Started Now</a>
+                            <a href="mailto:procurement@loudagroup.com" class="tmp-btn btn-primary">Obtenir Un Devis</a>
                             <!-- <div class="menu-button" id="search">
                         <i class="fa-light fa-grid-2"></i>
                         </div> -->
@@ -77,28 +75,12 @@
 
     </header>
     <!-- tpm-header-area end -->
+    
 
     <x-sidebar/>
     <!-- tpm-header-area end -->
 
-     <!-- Start Breadcrumb area  -->
-     <div class="breadcrumb-area bg_image tmp-section-gap breadcrumb-bg">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="breadcrumb-inner text-center">
-                        <h1 class="title split-collab">{{ $title }}</h1>
-                        <ul class="page-list">
-                            <li class="tmp-breadcrumb-item"><a href="/">Home</a></li>
-                            <li class="icon"><i class="fa-solid fa-angle-right"></i></li>
-                            <li class="tmp-breadcrumb-item active">{{ $subtitle }}</li>
-                        </ul>
-                        <div class="circle-1"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+  
     <!-- End Breadcrumb area  -->
     <!-- End Breadcrumb area  -->
 

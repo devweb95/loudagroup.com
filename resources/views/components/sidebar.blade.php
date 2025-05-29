@@ -3,7 +3,7 @@
  <div id="side-hide">
         <div class="top-area">
             <a href="{{ route('index') }}" class="logo-area">
-                <img src="{{ asset('assets/images/logo/logo-03.png') }}" alt="logo">
+                <img src="{{ asset('assets/images/logo/LOGO@300x.png') }}" alt="logo">
             </a>
             <div class="close-icon-area">
                 <div id="close-slide__main">
@@ -34,8 +34,8 @@
                 <div class="single-contact-information-side">
                     <i class="fa-light fa-envelope"></i>
                     <div class="information">
-                        <span>Mail Us</span>
-                        <a href="#" class="number">example@info.com</a>
+                        <span>Envoyez-nous un mail</span>
+                        <a href="#" class="number">procurement@loudagroup.com</a>
                     </div>
                 </div>
                 <!-- single contact information end -->
@@ -44,7 +44,7 @@
                     <i class="fa-sharp fa-light fa-location-dot"></i>
                     <div class="information">
                         <span>Our Address</span>
-                        <a href="#" class="number">66 Broklyant, New York 3269</a>
+                        <a href="#" class="number">Ouagadougou, BURKINA FASO</a>
                     </div>
                 </div>
                 <!-- single contact information end -->
@@ -53,8 +53,6 @@
             <ul class="social-icons solid-social-icons rounded-social-icons">
                 <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
             </ul>
             <!-- social area end -->
         </div>
@@ -63,34 +61,13 @@
             <nav class="nav-main mainmenu-nav mt--30">
                 <ul class="mainmenu metismenu" id="mobile-menu-active">
                     <li class="has-droupdown">
-                        <a href="#" class="main">Home</a>
+                        <a href="#" class="main">QUI SOMMES-NOUS</a>
                         <ul class="submenu mm-collapse">
-                            <li class="has-droupdown third-lvl">
-                                <a class="main" href="#">Multipages</a>
-                                <ul class="submenu-third-lvl mm-collapse">
-                                    <li><a href="{{ route('index') }}"></a>Corporate Demo</li>
-                                    <li><a href="{{ route('index-two') }}"></a>Financial Demo</li>
-                                    <li><a href="{{ route('index-three') }}"></a>Marketing Demo</li>
-                                    <li><a href="{{ route('index-four') }}"></a>Agency Demo</li>
-                                    <li><a href="{{ route('index-five') }}"></a>Startup Demo</li>
-                                    <li><a href="{{ route('index-six') }}"></a>Construction Demo</li>
-                                    <li><a href="{{ route('index-seven') }}"></a>Construction 2 Demo</li>
-                                    <li><a href="{{ route('index-eight') }}"></a>Company Demo</li>
-                                </ul>
-                            </li>
-                            <li class="has-droupdown third-lvl">
-                                <a class="main" href="#">Onepages</a>
-                                <ul class="submenu-third-lvl mm-collapse">
-                                    <li><a href="{{ route('onepage-one') }}"></a>One Page Corporate</li>
-                                    <li><a href="{{ route('onepage-two') }}"></a>One Page Financial</li>
-                                    <li><a href="{{ route('onepage-three') }}"></a>One Page Marketing</li>
-                                    <li><a href="{{ route('onepage-four') }}"></a>One Page Agency</li>
-                                    <li><a href="{{ route('onepage-five') }}"></a>One Page Startup</li>
-                                    <li><a href="{{ route('onepage-six') }}"></a>One Page Construction</li>
-                                    <li><a href="{{ route('onepage-seven') }}"></a>One Page Construction 2</li>
-                                    <li><a href="{{ route('onepage-eight') }}"></a>One Page Company</li>
-                                </ul>
-                            </li>
+                            <li><a href="{{ route('index') }}">Notre Groupe</a></li>
+                            <li><a href="{{ route('index-two') }}">Notre objectif et nos principes</a></li>
+                            <li><a href="{{ route('index-three') }}">Nos entreprises</a></li>
+                            <li><a href="{{ route('index-four') }}">Direction</a></li>
+                            <li><a href="{{ route('index-five') }}">Conseil d'administration</a></li>
                         </ul>
                     </li>
                     <li>

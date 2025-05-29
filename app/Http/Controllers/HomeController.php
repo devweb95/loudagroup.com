@@ -45,6 +45,11 @@ class HomeController extends Controller
     {
         return view('index');
     }
+    
+    public function index_six()
+    {
+        return view('multiPages/index-six');
+    }
 
     public function service_details()
     {
@@ -55,6 +60,7 @@ class HomeController extends Controller
     {
         return view('service');
     }
+   
 
     public function team_details()
     {
